@@ -1,0 +1,12 @@
+D:\repos\silver-api\Silver\Silver.Contracts\bin\Debug\net6.0\Silver.Contracts.deps.json
+D:\repos\silver-api\Silver\Silver.Contracts\bin\Debug\net6.0\Silver.Contracts.dll
+D:\repos\silver-api\Silver\Silver.Contracts\bin\Debug\net6.0\Silver.Contracts.pdb
+D:\repos\silver-api\Silver\Silver.Contracts\obj\Debug\net6.0\Silver.Contracts.csproj.AssemblyReference.cache
+D:\repos\silver-api\Silver\Silver.Contracts\obj\Debug\net6.0\Silver.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\silver-api\Silver\Silver.Contracts\obj\Debug\net6.0\Silver.Contracts.AssemblyInfoInputs.cache
+D:\repos\silver-api\Silver\Silver.Contracts\obj\Debug\net6.0\Silver.Contracts.AssemblyInfo.cs
+D:\repos\silver-api\Silver\Silver.Contracts\obj\Debug\net6.0\Silver.Contracts.csproj.CoreCompileInputs.cache
+D:\repos\silver-api\Silver\Silver.Contracts\obj\Debug\net6.0\Silver.Contracts.dll
+D:\repos\silver-api\Silver\Silver.Contracts\obj\Debug\net6.0\refint\Silver.Contracts.dll
+D:\repos\silver-api\Silver\Silver.Contracts\obj\Debug\net6.0\Silver.Contracts.pdb
+D:\repos\silver-api\Silver\Silver.Contracts\obj\Debug\net6.0\ref\Silver.Contracts.dll

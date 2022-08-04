@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TU37xtmVvEM6pQaYkCUBjhKpmJ9kpX/EXddHzdt0fJs=",
+  "Source": "Silver.API.Host",
+  "BasePath": "_content/Silver.API.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
