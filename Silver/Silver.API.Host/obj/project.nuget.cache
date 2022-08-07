@@ -1,15 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "h9RyQuH4N8J9VLv0VubrD7DLD0iSziYBtFSWrhe6jsAI4pZH6AksXX3Pc8pIgFga1De8eOYdu/Tk2pZ0Zxz40w==",
+  "dgSpecHash": "RZ+1QCQWuJRAjXCUnfCSGa/Tp1WnMMELe2qSw1ocif1hWEMzd3qRzoruor4VaWxCg8hhLMekfVUCt6B40PQz6g==",
   "success": true,
-  "projectFilePath": "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
+  "projectFilePath": "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Ridgewell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\Ridgewell\\.nuget\\packages\\erroror\\0.1.0\\erroror.0.1.0.nupkg.sha512"
   ],
   "logs": []
 }

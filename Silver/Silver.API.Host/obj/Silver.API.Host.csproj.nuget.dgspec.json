@@ -1,17 +1,84 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj": {}
+    "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj": {}
   },
   "projects": {
-    "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj": {
+    "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
+        "projectUniqueName": "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
         "projectName": "Silver.API.Host",
-        "projectPath": "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
+        "projectPath": "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
         "packagesPath": "C:\\Users\\Ridgewell\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\obj\\",
+        "outputPath": "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ridgewell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj": {
+                "projectPath": "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj",
+        "projectName": "Silver.Contracts",
+        "projectPath": "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Ridgewell\\.nuget\\packages\\",
+        "outputPath": "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ridgewell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +106,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -56,9 +117,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

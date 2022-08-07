@@ -1,12 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
+using ErrorOr;
 using Silver.Contracts;
+using Silver.API.Host.Services;
+using Silver.API.Host.Models;
 
-[ApiController]
-public class BreakfastsController : ControllerBase
+namespace Silver.API.Host.Controllers;
+
+
+public class BreakfastsController : ApiController
 {
-    [HttpPost("/breakfasts")]
-    public IActionResult CreateBreakfast(CreateBreakfastRequest request)
+    private readonly IBreakfastService _breakfastService;
+
+    public BreakfastsController(IBreakfastService breakfastService)
     {
-        return Ok();
+
     }
+
 }
