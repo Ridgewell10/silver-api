@@ -32,6 +32,7 @@ public class Breakfast
         List<string> sweet
     )
     {
+        // enforce variants 
         Id = id;
         Name = name;
         Description = description;
