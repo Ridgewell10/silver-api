@@ -1,0 +1,22 @@
+POST  http://localhost:5170/breakfasts
+Content-Type: "application/json"
+
+{
+    "name": "Healthy option one",
+    "description": "",
+    "startDateTime": "2022-08-08T08:02:00",
+    "endDateTime": "2022-08-08T11:02:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet": [
+        "Cookie"
+    ]
+}
+
+##
+
+Get https://localhost:7146/Breakfasts/

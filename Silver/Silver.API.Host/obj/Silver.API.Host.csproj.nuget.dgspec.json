@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj": {}
+    "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj": {}
   },
   "projects": {
-    "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj": {
+    "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
+        "projectUniqueName": "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
         "projectName": "Silver.API.Host",
-        "projectPath": "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
+        "projectPath": "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\Silver.API.Host.csproj",
         "packagesPath": "C:\\Users\\Ridgewell\\.nuget\\packages\\",
-        "outputPath": "d:\\repos\\silver-api\\Silver\\Silver.API.Host\\obj\\",
+        "outputPath": "D:\\repos\\silver-api\\Silver\\Silver.API.Host\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ridgewell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj": {
-                "projectPath": "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj"
+              "D:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj": {
+                "projectPath": "D:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj": {
+    "D:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj",
+        "projectUniqueName": "D:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj",
         "projectName": "Silver.Contracts",
-        "projectPath": "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj",
+        "projectPath": "D:\\repos\\silver-api\\Silver\\Silver.Contracts\\Silver.Contracts.csproj",
         "packagesPath": "C:\\Users\\Ridgewell\\.nuget\\packages\\",
-        "outputPath": "d:\\repos\\silver-api\\Silver\\Silver.Contracts\\obj\\",
+        "outputPath": "D:\\repos\\silver-api\\Silver\\Silver.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ridgewell\\AppData\\Roaming\\NuGet\\NuGet.Config",
