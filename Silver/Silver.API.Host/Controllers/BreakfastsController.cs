@@ -90,7 +90,6 @@ public class BreakfastsController : ApiController
         );
     }
 
-
     private CreatedAtActionResult CreatedAtGetBreakfast (Breakfast breakfast)
     {
         return CreatedAtAction(
